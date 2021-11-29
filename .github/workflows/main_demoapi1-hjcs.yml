@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'DemoApi1-HJCS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2DE6BF888F54A90B1DE4D4ED63A5DFF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B8B15B9BEAFB4D1B9E85F4F33F8F04ED }}
           package: .
